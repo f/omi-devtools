@@ -8,6 +8,8 @@ Lightweight yet powerful extension to debug [Omi.js](https://github.com/Tencent/
 - Open Extensions page of Chrome Browser
 - Drag and Drop the `OmiDevTools.crx` file.
 
+---
+
 <img src="./screenshot.png" />
 
 ## Features
