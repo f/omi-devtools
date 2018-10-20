@@ -1,0 +1,13 @@
+{
+  "name": "Omi.js DevTools",
+  "version": "0.1",
+  "description": "Omi.js DevTools Extension to inspect and debug Omi elements",
+  "devtools_page": "devtools.html",
+  "permissions": ["tabs"],
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
