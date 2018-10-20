@@ -1,6 +1,6 @@
 {
   "name": "Omi.js DevTools",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Omi.js DevTools Extension to inspect and debug Omi elements",
   "devtools_page": "devtools.html",
   "permissions": ["tabs"],
