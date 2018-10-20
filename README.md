@@ -4,6 +4,12 @@ Lightweight yet powerful extension to debug [Omi.js](https://github.com/Tencent/
 
 ## Installation
 
+### From Chrome Web Store
+
+- [Download from Chrome Web Store](https://chrome.google.com/webstore/detail/omijs-devtools/pjgglfliglbhpcpalbpeloghnbceocmd)
+
+### From GitHub
+
 - [Download OmiDevTools.crx File](https://github.com/f/omi-devtools/blob/master/OmiDevTools.crx?raw=true)
 - Open Extensions page of Chrome Browser
 - Drag and Drop the `OmiDevTools.crx` file.
