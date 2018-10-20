@@ -16,7 +16,7 @@ Lightweight yet powerful extension to debug [Omi.js](https://github.com/Tencent/
 
 ---
 
-<img src="./screenshot.png" />
+<img src="./omi-devtools.gif" />
 
 ## Features
 
