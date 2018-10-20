@@ -24,6 +24,7 @@ Lightweight yet powerful extension to debug [Omi.js](https://github.com/Tencent/
 - Watches store data
 - Strongly debuggable with Chrome's debugger itself
 - No configuration needed, just start to use
+- Shows **local data** and **store data**
 - `$o` to access selected element
 
 ## Build
