@@ -2,7 +2,7 @@
 
 Lightweight yet powerful extension to debug [Omi.js](https://github.com/Tencent/omi)
 
-<img src="./screenshot.png" width="500" />
+<img src="./screenshot.png" />
 
 ## Best Features
 
